@@ -1,0 +1,46 @@
+"<a href=""#Sales Browser/Customer Group"">Add / Edit</a>","<a href=""#Sales Browser/Customer Group""> เพิ่ม / แก้ไข </ a>"
+"<a href=""#Sales Browser/Territory"">Add / Edit</a>","<a href=""#Sales Browser/Territory""> เพิ่ม / แก้ไข </ a>"
+Billed,เรียกเก็บเงิน
+Company,บริษัท
+Currency is required for Price List {0},สกุลเงิน เป็นสิ่งจำเป็นสำหรับ ราคาตามรายการ {0}
+Default Customer Group,กลุ่มลูกค้าเริ่มต้น
+Default Territory,ดินแดนเริ่มต้น
+Delivered,ส่ง
+Enable Shopping Cart,เปิดใช้งานรถเข็น
+Go ahead and add something to your cart.,ไปข้างหน้าและเพิ่มสิ่งที่รถเข็นของคุณ
+Hey! Go ahead and add an address,นี่ ไปข้างหน้าและเพิ่มที่อยู่
+Invalid Billing Address,ที่อยู่ การเรียกเก็บเงิน ไม่ถูกต้อง
+Invalid Shipping Address,ที่อยู่ ในการจัดส่ง ที่ไม่ถูกต้อง
+Missing Currency Exchange Rates for {0},หายไป สกุลเงิน อัตราแลกเปลี่ยน เพื่อ {0}
+Name is required,ชื่อจะต้อง
+Not Allowed,ไม่อนุญาตให้
+Paid,ต้องจ่าย
+Partially Billed,ในจำนวน บางส่วน
+Partially Delivered,ส่ง บางส่วน
+Please specify a Price List which is valid for Territory,โปรดระบุรายชื่อราคาที่ถูกต้องสำหรับดินแดน
+Please specify currency in Company,โปรดระบุสกุลเงินใน บริษัท
+Please write something,กรุณาเขียน บางสิ่งบางอย่าง
+Please write something in subject and message!,กรุณาเขียน อะไรบางอย่างใน เรื่อง และ ข้อความ !
+Price List,บัญชีแจ้งราคาสินค้า
+Price List not configured.,ราคาไม่ได้กำหนดค่า
+Quotation Series,ชุดใบเสนอราคา
+Shipping Rule,กฎการจัดส่งสินค้า
+Shopping Cart,รถเข็นช้อปปิ้ง
+Shopping Cart Price List,รายการสินค้าราคาสินค้าในรถเข็น
+Shopping Cart Price Lists,ช้อปปิ้งสินค้าราคา Lists
+Shopping Cart Settings,การตั้งค่ารถเข็น
+Shopping Cart Shipping Rule,ช้อปปิ้งรถเข็นกฎการจัดส่งสินค้า
+Shopping Cart Shipping Rules,รถเข็นกฎการจัดส่งสินค้า
+Shopping Cart Taxes and Charges Master,ภาษีรถเข็นและปริญญาโทค่าใช้จ่าย
+Shopping Cart Taxes and Charges Masters,ภาษีรถเข็นช้อปปิ้งและปริญญาโทค่าใช้จ่าย
+Something went wrong!,สิ่งที่ผิดพลาด!
+Something went wrong.,สิ่งที่ผิดพลาด
+Tax Master,ปริญญาโทภาษี
+To Pay,การชำระเงิน
+Updated,อัพเดต
+You are not allowed to reply to this ticket.,คุณยังไม่ได้ รับอนุญาตให้ ตอบกลับ ตั๋ว นี้
+You need to be logged in to view your cart.,คุณต้องเข้าสู่ระบบเพื่อดูรถเข็นของคุณ
+You need to enable Shopping Cart,คุณต้อง เปิดการใช้งาน รถเข็น
+{0} cannot be purchased using Shopping Cart,{0} ไม่สามารถ ซื้อโดยใช้ รถเข็น
+{0} is required,{0} จะต้อง
+{0} {1} has a common territory {2},{0} {1} มีดินแดน ที่พบบ่อย {2}
